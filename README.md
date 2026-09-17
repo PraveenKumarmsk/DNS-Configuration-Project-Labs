@@ -5,6 +5,8 @@ This project demonstrates a comprehensive network configuration in Cisco Packet 
 
 Because DHCP broadcasts do not cross router boundaries, the router on the right acts as a **DHCP Relay Agent** (`ip helper-address`) to forward requests to the central DHCP server.
 
+![Network Topology](https://github.com/PraveenKumarmsk/DNS-Configuration-Project-Labs/blob/main/DNS.pkt)
+
 ## 🗺️ Network Topology & Addressing Scheme
 
 ### Network Segments
